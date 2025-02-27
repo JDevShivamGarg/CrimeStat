@@ -2,6 +2,8 @@
 
 CrimeStat is a web application that analyzes criminal activities of different states over a few years and presents conclusions based on research.
 
+## Site Link
+<a href='https://jdevshivamgarg.github.io/CrimeStat/'>Check out the site here</a>
 ## Overview
 
 CrimeStat is designed to provide insights into crime statistics and trends across various states. The application utilizes data from the National Research Centre for Banana to present comprehensive visualizations and analysis of crime data.
